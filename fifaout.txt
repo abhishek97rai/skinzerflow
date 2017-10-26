@@ -1,0 +1,22 @@
+C:\Anaconda3\python.exe C:/Users/admin/PycharmProjects/skinzerflow/fifa.py
+         Name  Age                                            Photo  \
+16  S. Aguero   29  https://cdn.sofifa.org/48/18/players/153079.png   
+
+   Nationality                                 Flag  Overall  Potential  \
+16   Argentina  https://cdn.sofifa.org/flags/52.png       89         89   
+
+               Club                                  Club Logo  Value  ...   \
+16  Manchester City  https://cdn.sofifa.org/24/18/teams/10.png  66.5M  ...    
+
+      RB   RCB   RCM   RDM    RF    RM    RS    RW   RWB    ST  
+16  52.0  44.0  75.0  54.0  87.0  84.0  86.0  86.0  57.0  86.0  
+
+[1 rows x 74 columns]
+13    88
+Name: Acceleration, dtype: object
+  Acceleration Finishing
+6           57        13
+Mean =  66.2479839831
+Median =  66.0
+
+Process finished with exit code 0
